@@ -1,0 +1,4 @@
+C:/Users/juanq/excercism/solutions/cpp/power-of-troy/Build/CMakeFiles/power-of-troy.dir
+C:/Users/juanq/excercism/solutions/cpp/power-of-troy/Build/CMakeFiles/test_power-of-troy.dir
+C:/Users/juanq/excercism/solutions/cpp/power-of-troy/Build/CMakeFiles/edit_cache.dir
+C:/Users/juanq/excercism/solutions/cpp/power-of-troy/Build/CMakeFiles/rebuild_cache.dir
