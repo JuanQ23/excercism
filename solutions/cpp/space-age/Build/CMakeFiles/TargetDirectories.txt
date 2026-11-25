@@ -1,0 +1,4 @@
+C:/Users/juanq/excercism/solutions/cpp/space-age/Build/CMakeFiles/space-age.dir
+C:/Users/juanq/excercism/solutions/cpp/space-age/Build/CMakeFiles/test_space-age.dir
+C:/Users/juanq/excercism/solutions/cpp/space-age/Build/CMakeFiles/edit_cache.dir
+C:/Users/juanq/excercism/solutions/cpp/space-age/Build/CMakeFiles/rebuild_cache.dir

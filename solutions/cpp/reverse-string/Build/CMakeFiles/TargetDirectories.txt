@@ -1,0 +1,4 @@
+C:/Users/juanq/excercism/solutions/cpp/reverse-string/Build/CMakeFiles/reverse-string.dir
+C:/Users/juanq/excercism/solutions/cpp/reverse-string/Build/CMakeFiles/test_reverse-string.dir
+C:/Users/juanq/excercism/solutions/cpp/reverse-string/Build/CMakeFiles/edit_cache.dir
+C:/Users/juanq/excercism/solutions/cpp/reverse-string/Build/CMakeFiles/rebuild_cache.dir
